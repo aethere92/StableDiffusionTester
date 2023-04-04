@@ -74,7 +74,8 @@ input {
 	border: 1px solid #111;
 	background: white;
 	border-radius: 0.25rem;
-	min-width: 100ch;
+	/* min-width: 100ch; */
+	width: 100%;
 }
 
 #container {
