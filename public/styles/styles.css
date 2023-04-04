@@ -191,4 +191,8 @@ input {
 	#rows {
 		grid-template-columns: 1fr;
 	}
+
+	#header {
+		flex-direction: column;
+	}
 }
